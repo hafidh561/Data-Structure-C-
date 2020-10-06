@@ -1,6 +1,6 @@
-# Data-Structure-CPP
+# Data-Structures-and-Algorithm-C++
 
-This repository contains several data structures and implementation programs in C++.
+This repository contains several data structures, algorithm and implementation programs in C++.
 
 - [Array](Array)
 - [Pointer](Pointer)
