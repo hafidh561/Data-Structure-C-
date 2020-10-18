@@ -13,6 +13,6 @@ This repository contains several data structures, algorithm and implementation p
 - [Sorting Algorithm](Sorting%20Algorithm)
 - [Hash Table](Hash%20Table)
 
-#### Lisensi
+#### License
 
 [MIT](./LICENSE)
